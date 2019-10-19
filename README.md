@@ -13,6 +13,10 @@
    
 <img src="./Screenshot 2019-10-19 at 4.22.57 PM.png"></img>
 
-### Constructing Cost Matrix
+### Constructing Cost Matrix and Making graph Complete
 
 <img src="./Screenshot 2019-10-19 at 4.34.24 PM.png"></img>
+
+### Finding Shorting path of TSP using Hamiltonian Cycle
+
+<img src="./Screenshot 2019-10-19 at 4.45.51 PM.png"></img>
