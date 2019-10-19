@@ -11,3 +11,7 @@
 ## Implementation:-
    ### Reduction Process
    
+<img src="./Screenshot 2019-10-19 at 4.22.57 PM.png"></img>
+
+### Constructing Cost Matrix
+
