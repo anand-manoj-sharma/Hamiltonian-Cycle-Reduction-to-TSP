@@ -15,3 +15,4 @@
 
 ### Constructing Cost Matrix
 
+<img src="./Screenshot 2019-10-19 at 4.34.24 PM.png"></img>
